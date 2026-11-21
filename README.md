@@ -81,8 +81,8 @@ SNAPCLASS/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/harshitkumar764586/ai-attendance-system.git
-cd ai-attendance-system
+git clone https://github.com/bhoomiguptaa1/SnapClass.git
+cd SnapClass
 ```
 
 ### 2. Create and Activate Virtual Environment
@@ -121,4 +121,4 @@ Open your browser at `http://localhost:8501`.
 
 ## Author
 
-* **Harshit Kumar** - [GitHub Profile](https://github.com/harshitkumar764586)
+* **Bhoomi Gupta** - [GitHub Profile](https://github.com/bhoomiguptaa1)
